@@ -1,0 +1,202 @@
+禅道账号  xuzhongqin/xuzhongqin123456   http://192.168.11.109:19999/zentao
+
+票易安PC站 http://prd-new.jinbill.com/
+票易安 
+http://www-110.jinbill-99.com/index.htm
+http://admin-110.jinbill-99.com/#/?_k=mgetfj
+15951660778  11111111
+
+SVN账号 xuzhongqin jinbill123456
+
+腾讯邮箱 xuzhongqin@jinbill.com      wjsXZQ1234
+
+PC测试环境 http://www-110.jinbill-99.com
+超管后台 http://admin-110.jinbill-99.com
+账号 15665191196@163.com
+密码 12345678
+
+PC测试环境 http://www-120.jinbill-99.com
+超管后台 http://admin-120.jinbill-99.com
+账号 1501331043@qq.com
+密码 33fx3h
+
+svn://119.23.206.36/product/测试文档
+
+定时任务:http://job-120.jinbill-99.com/toLogin
+账号密码:    jinbill     jinbill@ccb123qwe@
+
+查询小款验证
+http://pc-120.jinbill-99.com/swagger-ui.html#/company-ca-apply-controller/getsmallMoneyUsingGET
+
+开户行行号：309391000011
+对公银行账号：117010100100433801
+银行账户名称：动漫城 
+开户银行名称：兴业银行
+
+认证：15111111111/15222222222   111111111
+
+简版root账户 15665191195 12345678
+15651298159 动漫城LCY
+18061620497 动漫城旺旺旺
+18052096267 动漫城
+18956947909 动漫城二二二
+
+开户行行号：309391000011 
+对公银行账号：117010100100433801
+银行账户名称：动漫城 
+开户银行名称：兴业银行
+
+开户行行号：309391000011 
+对公银行账号：117010100100360982
+银行账户名称：暴走银行 
+开户银行名称：兴业银行
+
+开户行行号：309391000011 
+对公银行账号：117010100100433785
+银行账户名称：美食街 
+开户银行名称：兴业银行
+
+开户行行号：309391000011 
+对公银行账号：117010100100433915
+银行账户名称：疯狂动物城 
+开户银行名称：兴业银行
+
+开户行行号：105100000017 
+对公银行账号：6222809876543219810
+银行账户名称：大王 
+开户银行名称：中国建设银行总行
+
+开户行行号：309391000011
+对公银行账号：117010100100434221
+银行账户名称(企业家)：小小梦想家 
+开户银行名称：兴业银行
+
+抓取票面  http://xiaci.jinbill-99.com/
+
+统一社会编号 
+规则：统一代码须由18位数字或大写字母(不包括I,O,Z,S,V)组成
+12345678901234567890123456789012345678901234567890
+
+m_company_ca-apply
+m_company_ca_step1_apply
+m_conpany_ca_step2_apply
+m_conpany_ca_step3_apply
+m_company_department
+m_company_employee
+m_company_info
+m_company_trade_house
+m_simple_company_info
+
+巧玲电话 18355300833   12345678
+超管审核不过 ccb_market   tk_bill_order
+
+询价中改发布时间，交易中改warning时间
+
+商家中心  http://e-110.jinbill-99.com/#/main/buybill?_k=rl6m80
+
+实际发生手续费=每十万手续费*票面金额/10
+日利率 = 年息 ÷ 100  ÷ 360;
+贴现金额= (票面金额(元) - 票面金额（元） x 日利率 x 计息天数) - 票面金额（万元） ÷ 10 x 每十万手续费;
+贴现利息= 票面金额- 贴现金额;
+每十万元贴息= (贴现利息 ÷ 票面金额（万元）) x 10
+
+正式环境
+https://www.jinbill.com/index.html
+http://admin.jinbill.com/#/?_k=aes5lw   35cexv
+
+正式环境公司主账号 15896271017   TANG19951002            
+                    13914852516  lijie123456(诚承宝)
+
+简版 18751947077    11111111
+
+负责研究selenium、appium自动化，今年计划实现目标：掌握selenium API 、appium api常用方法，可以掌握整个PC站和APP系统的自动化测试流程
+
+学习java
+https://github.com/crossoverJie/JCSprout
+https://crossoverjie.top/JCSprout/#/
+
+易签测试value http://yiqian-120.jinbill-99.com/system/clientVersion
+
+192.168.11.199
+root
+jinbill
+/home/user1/nginx/conf/data/xiaci
+
+背书连续时，背书人为收票人，非背书人大回头
+背书人为非出票人和收票人，重复的
+大回头跟小回头不同时存在
+有依据说明开户银行、承兑全称不一致的，显示上下不一致；没有依据，不显示上下不一致
+第一手背书人为出票人时，显示背书不连续
+
+查总行  http://solr-120.jinbill-99.com/solr/#/bankcategory/query
+qf : text^10 bank_name^1  bank_short_name^10 
+bank_short_name2^10 bank_short_name3^10
+
+询价结果页面提示“您的票据未能查询到市场报价，我们推荐您与下列机构联系以获取最新价格信息。”
+下方显示推荐机构
+
+http://assess-120.jinbill-99.com/swagger-ui.html
+
+
+调度中心账号 jinbill 密码 jinbill@ccb123qwe@
+http://job-120.jinbill-99.com/jobinfo
+
+15906117011
+11111111
+
+测试环境主账户18956947909
+(无线网）
+piaoyian
+ab181113
+
+开发环境主账户 13914768128 11111111
+
+http://www-120.jinbill-199.com/index.html
+
+http://www4.ccbhpw.com    47.106.13.211/43306   root/jinbill@ccb123qwe@@@  
+
+http://passport-120.jinbill-99.com/swagger-ui.html#/  登录接口
+
+15912341234 
+
+get  使用Params传参
+post 使用Body传参
+
+
+利率票显示最低，货款票显示最高
+
+
+利率价和询价结果都是从低到高排列，之前文档中写的是倒序，现已修改。
+货款价还是取最高或前三高平均，不变
+  
+序号  背书标题         瑕疵认定
+1     转让背书         不是瑕疵
+2     背书             不是瑕疵
+3     质押背书         质押背书
+4     保证背书         保证背书
+5     买断式贴现背书   背书瑕疵
+6     买断式再贴现背书 背书瑕疵
+7     买断式转贴现背书 背书瑕疵
+8     央行卖出商业汇票 背书瑕疵
+9     回购式再贴现背书 背书瑕疵
+10    回购式再贴现赎回背书 背书瑕疵
+
+
+15314
+被背书人出现出票人和收款人大回头
+背书人出现出票人和收款人是小回头
+银行（企业承兑）和上下不一致不能同时出现
+重复背书和小回头同一手不能同时出现
+
+15951660778
+
+git status
+git add 文件
+git commit -m 文件
+远程仓库和本地仓库关联   git remote add origin 你复制的地址
+git pull origin master（创建reposity时，加入readme。md或者license，github会拒绝push，需要先执行）
+git push -u origin master将本地仓库上传至Github的仓库并进行关联
+（关联后，以后在commit后同步到github上，只要直接执行Git push就行了）
+
+
+http://www.cnblogs.com/schaepher/p/5561193.html#ssh_key
